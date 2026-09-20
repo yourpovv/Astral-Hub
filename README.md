@@ -44,4 +44,4 @@ To the extent possible, in no event shall the author be liable to you on any leg
 
 **Last Updated:** January 2023
 
-[MIT](LICENSE) © [YourPOVV](https://github.com/yourpovv)
+[MIT](LICENSE) © [YourPOV](https://github.com/yourpovv)
