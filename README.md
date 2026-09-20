@@ -25,7 +25,7 @@ This project is no longer actively maintained.
 ## Credits & Acknowledgments
 
 **Project Lead:**
-- [@YourPOV](https://github.com/youprovv) (AKA 'Ecstasy' or 'Nix')
+- [@YourPOV](https://github.com/yourpovv) (AKA 'Ecstasy' or 'Nix')
 
 **Developers:**
 - [@YourPOV](https://github.com/yourpovv) - Scripts (v1 - current)
