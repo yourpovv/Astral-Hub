@@ -25,10 +25,10 @@ This project is no longer actively maintained.
 ## Credits & Acknowledgments
 
 **Project Lead:**
-- [@ItsJusNix](https://github.com/youprovv) (AKA 'Ecstasy' or 'Nix')
+- [@YourPOV](https://github.com/youprovv) (AKA 'Ecstasy' or 'Nix')
 
 **Developers:**
-- [@itsjusnix](https://github.com/yourpovv) - Scripts (v1 - current)
+- [@YourPOV](https://github.com/yourpovv) - Scripts (v1 - current)
 - [@silentben8x](https://github.com/Aurora-2004) - UI Library (v1 - current)
 
 **Special Thanks:**
